@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1716373774772,
+      "name": "Rah Zon",
+      "email": "rahzon@gmail.com",
+      "password": "justatest"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "How To Win Friends And Influence People",
+      "author": "Dale Carnegie",
+      "available": true
+    }
+  ]
+}
